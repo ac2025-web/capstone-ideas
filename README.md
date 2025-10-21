@@ -1,7 +1,7 @@
 # Capstone – Initial Project Ideas (Step 1)
 
 This document proposes three project ideas and explores candidate APIs.  
-The final API choice will be made in Step 3.  
+The final API choice will be made in Oct 21.  
 **Target effort:** ~45–65 hours.
 
 ---
